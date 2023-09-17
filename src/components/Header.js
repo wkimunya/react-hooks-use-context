@@ -12,6 +12,7 @@ function Header({ theme, setTheme, user, setUser }) {
     }
   }
 
+  
   return (
     <header>
       <h1>React Context</h1>

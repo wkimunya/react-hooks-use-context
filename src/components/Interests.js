@@ -13,4 +13,5 @@ function Interests({ interests, theme }) {
   );
 }
 
+
 export default Interests;

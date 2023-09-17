@@ -4,6 +4,7 @@ function DarkModeToggle({ theme, setTheme }) {
   function handleToggleTheme(e) {
     setTheme(e.target.checked ? "dark" : "light");
   }
+  
   return (
     <label>
       Dark Mode
